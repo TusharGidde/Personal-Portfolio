@@ -1,0 +1,28 @@
+[
+    {
+      "logo": "certificate1.png",
+      "name": "MERN Stack By CodeHelp",
+      "description": "This certification demonstrates proficiency in..."
+    },
+    {
+      "logo": "certificate2.png",
+      "name": "Full Stack Application (LinkedIn Learning)",
+      "description": "This certification signifies expertise in..."
+    },
+    {
+      "logo": "certificate3.png",
+      "name": "OOP in C++  (Code Studio) ",
+      "description": "This certification validates skills in..."
+    },
+    {
+      "logo": "certificate3.png",
+      "name": "Javascript Basics (Code Studio)  ",
+      "description": "This certification validates skills in..."
+    },
+    {
+      "logo": "certificate3.png",
+      "name": "Mendix Low Code Application  (Udemy)  ",
+      "description": "This certification validates skills in..."
+    }
+  ]
+  
