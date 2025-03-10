@@ -24,6 +24,7 @@ import projectthird from "./assets/Projects/img3.png";
 
 import sbgi from "././assets/Education/sbgi.jpeg";
 import vit from "./assets/Education/vit.jpg";
+import jjm from "./assets/logo.png";
 import school from "././assets/Education/school.jpeg"
 
 
@@ -201,7 +202,7 @@ export const content = {
       {
         college:
           "Dr. J. J. Magdum College Of Engineering, Jaysingpur",
-        img: vit,
+        img: jjm,
         name: "Computer Science and Engineering", 
         // CGPA:7.00,
         link:"https://drive.google.com/file/d/10-ql0ceFI13JCu-EAtF9v_jelPvfJW6e/view?usp=sharing"
