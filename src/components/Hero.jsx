@@ -40,7 +40,7 @@ const Hero = () => {
 
               <div className="flex gap-2 mt-0 p-5">
                 <div className="flex justify-center -mt-1 mr-10">
-                  <a href="https://drive.google.com/file/d/18PqNnn6Sff4AM-PaZVQv44hovU4QCd2_/view?usp=sharing" target="_blank" className="btn hover:bg-blue-500 hover:text-white hover:border-white transition duration-300 ease-in-out ">
+                  <a href="https://drive.google.com/file/d/16GXB0BMrvB6gwwdbv3s0EXf-2_TMYRjc/view?usp=sharing" target="_blank" className="btn hover:bg-blue-500 hover:text-white hover:border-white transition duration-300 ease-in-out ">
                     {hero.btnText}
                   </a>
                 </div>
