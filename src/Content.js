@@ -27,7 +27,9 @@ import vit from "./assets/Education/vit.jpg";
 import jjm from "./assets/logo.png";
 import school from "././assets/Education/school.jpeg"
 
+import devtown from "./assets/certification/devtown.png"
 
+import shopesy from "./assets/Projects/image.png"
 // import icons from react-icons
 import { IoBook } from "react-icons/io5";
 import { FaCertificate } from "react-icons/fa";
@@ -76,24 +78,19 @@ export const content = {
       link:"https://drive.google.com/file/d/1D9JXfl1QVDWNIeP8I7H39eJROI80ziKn/view"
     },
     {
-     name: " Full Stack Application (LinkedIn Learning)",
-      icon: linkedin,
-      link:"https://drive.google.com/file/d/1heeV32bKb9BCmZa2FkgAnyPzzHZEK889/view"
+     name: "OOP in C++  ",
+      icon: devtown,
+      link:"https://drive.google.com/drive/folders/1zONcXgcXMSLGwuN-RKhvWmv8HmSnCwOD"
     },
     {
-     name: "OOP in C++  (Code Studio)",
-      icon: codenija,
-      link:"https://drive.google.com/file/d/11w6iaDwG5d073jMNDENqh_eISp6j15kF/view"
+      name: "Java core concepts ",
+      icon: devtown,
+      link:"https://drive.google.com/drive/folders/1zONcXgcXMSLGwuN-RKhvWmv8HmSnCwOD"
     },
     {
-      name: "Javascript Basics (Code Studio) ",
-      icon: codenija,
-      link:"https://drive.google.com/file/d/1074Mxz_EVgMgNI0p6CUaqGS20aBZ1Atm/view"
-    },
-    {
-      name: "Mendix Low Code Application  (Udemy)  ",
-      icon: udemy,
-      link:"https://drive.google.com/file/d/1eHVfvJNG5l6zpcJlFShVpTd6dF_kNqPG/view"
+      name: "Self paced datastructure and algorithms ",
+      icon: devtown,
+      link:"https://drive.google.com/drive/folders/1zONcXgcXMSLGwuN-RKhvWmv8HmSnCwOD"
     },
   ],
   hero: {
@@ -174,9 +171,9 @@ export const content = {
 
     project_content: [
       {
-        title: "Swami Dayanand Saraswati Shakha Student Portal",
-        image:ssd ,
-        link: "https://sdss-portal.vercel.app/",
+        title: "Shop Now (basic react frontend)",
+        image:shopesy ,
+        link: "https://shopsy-73m8slk36-tushargiddes-projects.vercel.app/",
         deploy: ""
       },
       {
