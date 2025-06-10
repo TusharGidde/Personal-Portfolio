@@ -101,11 +101,11 @@ export const content = {
     social_media: [
       {
         name: "linkedin",
-        link: "http://www.linkedin.com/in/satwik-divate",
+        link: "https://www.linkedin.com/in/tushar-gidde-092625216/",
       },
        {
         name: "gmail",
-        link: "mailto:satwikdivate.com",
+        link: "mailto:tushargidde007@gmail.com",
       }
     ],
     image: Hero_person,
