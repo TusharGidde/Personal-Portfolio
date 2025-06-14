@@ -75,7 +75,7 @@ export const content = {
     {
      name: "MERN Stack By CodeHelp",
       icon: codehlep,
-      link:"https://drive.google.com/file/d/1D9JXfl1QVDWNIeP8I7H39eJROI80ziKn/view"
+      link:"https://codehelp.com"
     },
     {
      name: "OOP in C++  ",

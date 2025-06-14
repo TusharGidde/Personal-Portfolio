@@ -11,7 +11,7 @@ const Education = () => {
         <br />
         
           {education.education_content.map((content, i) => (
-            <a href={content.link} target="_blank">
+            <a target="_blank">
               <div
                 className={` duration-500 bg-bg_light_primary mx-8 my-4 border-2 
               p-8 h-full rounded-2xl flex items-center gap-6
