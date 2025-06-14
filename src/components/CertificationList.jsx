@@ -25,7 +25,7 @@ const CertificationList = () => {
             </div>
             <div>
               <a
-                href={cer.link}
+                
                 className="w-[400px] text-lg font-bold"
                 target="_blank"
               >
