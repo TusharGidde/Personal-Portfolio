@@ -24,13 +24,13 @@ const CertificationList = () => {
               />
             </div>
             <div>
-              {/* <a
+              <a
                 href={cer.link}
                 className="w-[400px] text-lg font-bold"
                 target="_blank"
               >
                 {cer.name}
-              </a> */}
+              </a>
               <p className="italic">{}</p>
               <div
                 onClick={() => {
