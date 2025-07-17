@@ -19,6 +19,7 @@ import udemy from "./assets/certification/udemy.jpeg"
 import ssd from "./assets/Projects/ssd.jpg"
 import rfid from "./assets/Projects/rfid.jpg"
 import projectsecond from "./assets/Projects/studynotion.png"
+import projectthird from "./assets/Projects/projectthird.png"
 import mongo from "./assets/Skills/mongo.jpg"
 import projectthird from "./assets/Projects/img3.png";
 
@@ -180,6 +181,12 @@ export const content = {
         title: "StudyNotion an Online Education Platform",
         image: projectsecond,
         link: "https://studynotion-frontend-self-six.vercel.app/",
+        deploy: ""
+      },
+      {
+        title: "GameHub - Classic Games Collection - Pure HTML, CSS & JavaScript",
+        image: projectthird,
+        link: "https://tic-tak-toe-mu-gules.vercel.app/",
         deploy: ""
       },
       {
