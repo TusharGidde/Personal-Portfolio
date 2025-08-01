@@ -42,7 +42,7 @@ const Hero = () => {
               <div className="relative group">
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-blue-500 to-purple-500 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-300"></div>
                 <a
-                  href="https://drive.google.com/file/d/16GXB0BMrvB6gwwdbv3s0EXf-2_TMYRjc/view?usp=sharing"
+                  href="https://drive.google.com/file/d/13DMQEaO0kF2k1CgHKNfYMVi_D3XaJ1c4/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="relative px-6 sm:px-8 py-3 bg-slate-900 text-white rounded-lg font-semibold hover:bg-slate-800 transition duration-300 flex items-center gap-2"
