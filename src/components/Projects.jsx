@@ -9,9 +9,10 @@ const Projects = () => {
   return (
     // <section className="flex justify-center items-center bg-bg_light_primary pt-10 min-h-[90vh]" id="projects">
     <div
-      className=" md:container px-5  mt-10 flex flex-col justify-between"
+      className=" md:container px-5  mt-10 flex flex-col justify-between "
       id="projects"
     >
+      
       <div>
         <h2 className="text-5xl text-center m-5">{Projects.title}</h2>
         <br />

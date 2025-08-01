@@ -112,7 +112,7 @@ export const content = {
     image: Hero_person,
     hero_content: [
       {
-        count: "Software Engineer Coding Dreams into Reality ",
+        // count: "Software Engineer Coding Dreams into Reality ",
       
       },
     ],
