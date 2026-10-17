@@ -1,5 +1,5 @@
 // import images
-import Hero_person from './assets/Hero/image2.jpg';
+import Hero_person from './assets/Hero/image2.png';
 
 import sql from "./assets/Skills/mysql.png";
 import sketch from "./assets/Skills/sketch.png";
