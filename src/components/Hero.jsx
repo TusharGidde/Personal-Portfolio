@@ -65,7 +65,7 @@ const Hero = () => {
           transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
           className="order-1 md:order-2 flex justify-center md:justify-end"
         >
-          <div className="relative w-full max-w-[400px] aspect-[4/5] rounded-3xl overflow-hidden bg-surfaceElevated grayscale hover:grayscale-0 transition-all duration-700">
+          <div className="relative w-full max-w-[400px] aspect-[4/5] rounded-3xl overflow-hidden bg-surfaceElevated transition-all duration-700">
             {/* Fallback pattern if image is missing */}
             <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:16px_16px]"></div>
 
